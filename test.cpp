@@ -48,7 +48,7 @@ int main()
     arraybufferinit();
 
     int texture1 = textload("image.jpg");
-    int texture2 = textload("gay2.png");
+    int texture2 = textload("image.png");
 
     // tell opengl for each sampler to which texture unit it belongs to (only has to be done once)
     // -------------------------------------------------------------------------------------------
